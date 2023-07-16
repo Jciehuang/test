@@ -3,3 +3,4 @@
 - ` git init` this is the command I use to initialize my first repository
 - a new line
 - 2nd line
+- 3RD LINE
